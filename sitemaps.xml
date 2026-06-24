@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.externa.com.ar/sitemaps_xsl.xsl"?>
+<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://www.externa.com.ar/post-sitemap1.xml</loc>
+<lastmod>2026-06-23T10:00:10-03:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://www.externa.com.ar/page-sitemap1.xml</loc>
+<lastmod>2026-02-23T13:59:27-03:00</lastmod>
+</sitemap>
+<sitemap>
+<loc>https://www.externa.com.ar/category-sitemap1.xml</loc>
+</sitemap>
+</sitemapindex>
